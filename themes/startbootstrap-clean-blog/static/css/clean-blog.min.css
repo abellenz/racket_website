@@ -430,3 +430,9 @@ body {
     text-align:center;
   }
 }
+@media only screen and (max-width:768px) {
+  .home-site-heading {
+    padding: 200px 40px;
+    text-align:center;
+  }
+}
