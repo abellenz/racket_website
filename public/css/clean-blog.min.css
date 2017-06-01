@@ -3,9 +3,10 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,300i,700,700i);
 
 body {
-  font-family: Lora, 'Times New Roman', serif;
+  font-family: Roboto, Arial, serif;
   font-size: 20px;
   color: #404040;
   background: #182A48;
@@ -13,16 +14,15 @@ body {
 
 p {
   line-height: 1.5;
-  margin: 30px 0
+  margin: 30px 0;
 }
 
 p a {
-  text-decoration: underline
+  text-decoration: underline;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800
+
 }
 
 a {
@@ -55,7 +55,6 @@ hr.small {
   left: 0;
   width: 100%;
   z-index: 3;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif
 }
 
 .navbar-custom .navbar-brand {
@@ -168,7 +167,6 @@ hr.small {
   font-size: 24px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0
 }
@@ -189,14 +187,12 @@ hr.small {
 }
 
 .intro-header .post-heading .subheading {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 24px;
   margin: 10px 0 30px;
   font-weight: 600
 }
 
 .intro-header .post-heading .meta {
-  font-family: Lora, 'Times New Roman', serif;
   font-style: italic;
   font-weight: 300;
   font-size: 20px
@@ -347,25 +343,30 @@ form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eee
 }
 
-.btn {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
-  font-size: 14px;
-  font-weight: 800;
-  letter-spacing: 1px;
+input.form-control {
   border-radius: 0;
-  padding: 15px 25px
+  border:none;
 }
 
-.btn-lg {
-  font-size: 16px;
-  padding: 25px 35px
+.btn {
+  color: #182A48;
+  /* background: #7aecd6; */
+  background: #fff;
+  border:1px solid #fff;
+  border-radius: 0;
+  font-weight:700;
+}
+
+@media only screen and (max-width:768px) {
+  .btn {
+    width:100%;
+  }
 }
 
 .btn-default:hover, .btn-default:focus {
   background-color: #0085a1;
-  border: 1px solid #0085a1;
-  color: #fff
+  color: #fff;
+  border:1px solid #0085a1;
 }
 
 .pager {
@@ -373,14 +374,13 @@ form .row:first-child .floating-label-form-group {
 }
 
 .pager li>a, .pager li>span {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
   letter-spacing: 1px;
   padding: 15px 25px;
   background-color: #fff;
-  border-radius: 0
+  border-radius: 0;
 }
 
 .pager li>a:hover, .pager li>a:focus {
@@ -421,9 +421,6 @@ body {
   webkit-tap-highlight-color: #0085a1
 }
 
-/* ABEL'S NEW SHIT  */
-
-
 @media only screen and (min-width:768px) {
   .home-site-heading {
     padding: 300px 0;
@@ -436,3 +433,13 @@ body {
     text-align:center;
   }
 }
+.mailinglisttitle {
+  color:#fff;
+}
+
+@media only screen and (max-width:768px) {
+  .mailinglisttitle {
+    font-size:.8em;
+  }
+}
+  
