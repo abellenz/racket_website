@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on RACKET</title>
-    <link>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/categories/</link>
+    <link>http://www.racket.ai/categories/</link>
     <description>Recent content in Categories on RACKET</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
     
-	<atom:link href="http://www.racket.ai.s3-website-us-west-2.amazonaws.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.racket.ai/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/categories/development/</link>
+      <link>http://www.racket.ai/categories/development/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/categories/development/</guid>
+      <guid>http://www.racket.ai/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/categories/golang/</link>
+      <link>http://www.racket.ai/categories/golang/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/categories/golang/</guid>
+      <guid>http://www.racket.ai/categories/golang/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-baseurl = "http://www.racket.ai.s3-website-us-west-2.amazonaws.com"
+baseurl = "http://www.racket.ai"
 title = "RACKET"
 canonifyurls = true
 paginate = 10
@@ -13,9 +13,9 @@ googleAnalytics = "" # delete or comment to disable Google Analytics JS generati
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
-  Description = "Your site description"
-  Author = "Jack Off"
-  email = "benoit.benedetti@gmail.com" #Remove this line if you would prefer not to use an email button in the footer.
+  Description = "Racket.ai"
+  Author = "Abel Lenz"
+  email = "info@racket.ai" #Remove this line if you would prefer not to use an email button in the footer.
   postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
   showReadTime = true #set to false to exclude read time from header of post
 

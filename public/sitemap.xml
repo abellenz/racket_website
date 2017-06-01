@@ -3,65 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/about/about/</loc>
+    <loc>http://www.racket.ai/about/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/tags/development/</loc>
+    <loc>http://www.racket.ai/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/categories/development/</loc>
+    <loc>http://www.racket.ai/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.racket.ai/categories/development/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/tags/go/</loc>
+    <loc>http://www.racket.ai/tags/development/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/tags/golang/</loc>
+    <loc>http://www.racket.ai/tags/go/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/categories/golang/</loc>
+    <loc>http://www.racket.ai/categories/golang/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/tags/hugo/</loc>
+    <loc>http://www.racket.ai/tags/golang/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/</loc>
+    <loc>http://www.racket.ai/tags/hugo/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/tags/</loc>
+    <loc>http://www.racket.ai/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.racket.ai/tags/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on RACKET</title>
-    <link>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/tags/</link>
+    <link>http://www.racket.ai/tags/</link>
     <description>Recent content in Tags on RACKET</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.racket.ai.s3-website-us-west-2.amazonaws.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.racket.ai/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/tags/development/</link>
+      <link>http://www.racket.ai/tags/development/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/tags/development/</guid>
+      <guid>http://www.racket.ai/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/tags/go/</link>
+      <link>http://www.racket.ai/tags/go/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/tags/go/</guid>
+      <guid>http://www.racket.ai/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/tags/golang/</link>
+      <link>http://www.racket.ai/tags/golang/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/tags/golang/</guid>
+      <guid>http://www.racket.ai/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/tags/hugo/</link>
+      <link>http://www.racket.ai/tags/hugo/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.racket.ai.s3-website-us-west-2.amazonaws.com/tags/hugo/</guid>
+      <guid>http://www.racket.ai/tags/hugo/</guid>
       <description></description>
     </item>
     
